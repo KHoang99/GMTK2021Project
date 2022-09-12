@@ -1,3 +1,5 @@
+Playable build found here: https://khoang99.itch.io/bullet-time-donut-break
+
 A conjunction of two different things I was looking into in the Summer of 2021
 
 1. Working in Blender3d to model customizable 3d meshes. 
